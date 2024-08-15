@@ -1,0 +1,10 @@
+data
+__pycache__
+runs
+.venv
+results
+*.ipynb_checkpoint*
+*.png
+onnx_models
+jetcam
+pruned_configs
